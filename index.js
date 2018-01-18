@@ -1,9 +1,7 @@
-// import { Observable } from "rxjs"
+import { render } from "react-dom"
 
-// Observable.interval(1000).subscribe(
-// 	i => 
-// 		(document.getElementById("app").innerHTML = `<h1>${i}</h1>`
-// 		)
-// )
-
-document.getElementById("app").innerHTML = `<h1>My awesome app</h1>`
+render(
+	<div>React Autooad dsdsd</div>,
+	document.getElementById("app")
+)
+     
