@@ -5,11 +5,11 @@
 // 	el: "#app",
 // 	render: h => h(App)
 // })
-
+import "./style.scss"
 import { render } from "react-dom"
+import Readme from "./Readme.md"
 
 render(
-	<div>React Autooad dsdsd</div>,
+	<Readme></Readme>,
 	document.getElementById("app")
 )
-     

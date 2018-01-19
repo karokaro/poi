@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./style.scss"],"names":[],"mappings":"AAEA,EACC,iEACA,SAJc","file":"client.88dcb04a.css","sourcesContent":["$color: #ff0000;\n\n* {\n\tfont-family: \"Franklin Gothic Medium\", \"Arial Narrow\", Arial, sans-serif;\n\tcolor: $color;\n}\n\n\n// WEBPACK FOOTER //\n// ./style.scss"],"sourceRoot":""}
